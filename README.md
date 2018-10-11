@@ -17,25 +17,33 @@ En el presente repositorio se encuentra un catalogo con ejemplos de los siguient
     Proxy
 
 Diseño Abstract Factory
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oAbstractFactory.png)
 
 Diseño Factory Method 
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oFactoryMethod.png)
 
 Diseño Builder 
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oBuilder.png)
 
 Diseño Prototype 
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oPrototype.png)
 
-Diseño Singleton 
+Diseño Singleton
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oSingleton.png)
 
 Diseño Adapter 
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oAdapter.png)
 
-Diseño Decorador 
+Diseño Decorador
+
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oDecorador.png)
   
  Diseño Proxy 
+ 
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oProxy.png)
