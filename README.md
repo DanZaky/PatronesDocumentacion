@@ -43,6 +43,10 @@ Diseño Adapter
 Diseño Decorador
 
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oDecorador.png)
+
+Diseño Facade
+
+![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oFacade.png)
   
  Diseño Proxy 
  
