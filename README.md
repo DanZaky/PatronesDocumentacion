@@ -8,7 +8,7 @@ En el presente repositorio se encuentra un catalogo con ejemplos de los siguient
     
 ##Patrones Creacionales
     
-   [1. Abstract factory](../blob/master/src/patronabstractfactory)
+   [1. Abstract factory](../src/patronabstractfactory)
    [2. Factory method](../src/patronpatronfactorymethod)
    [3. Builder](../src/patronbuilder)
    [4. Prototype](../src/patronprototype)
