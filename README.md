@@ -9,17 +9,17 @@ En el presente repositorio se encuentra un catalogo con ejemplos de los siguient
 ##Patrones Creacionales
     
    [1. Abstract factory](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronabstractfactory)
-   [2. Factory method](../src/patronpatronfactorymethod)
-   [3. Builder](../src/patronbuilder)
-   [4. Prototype](../src/patronprototype)
-   [5. Singleton](../src/patronsingleton)
+   [2. Factory method](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronpatronfactorymethod)
+   [3. Builder](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronbuilder)
+   [4. Prototype](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronprototype)
+   [5. Singleton](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronsingleton)
     
 ##Patrones Estructurales
     
-   [1. Adapter](../src/patronadapter)
-   [2. Decorator](../src/patrondecorador)
-   [3. Facade](../src/patronfachada)
-   [4. Proxy](../src/patronproxy)
+   [1. Adapter](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronadapter)
+   [2. Decorator](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patrondecorador)
+   [3. Facade](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronfachada)
+   [4. Proxy](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronproxy)
 
 Diseño Abstract Factory
 
