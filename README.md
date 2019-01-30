@@ -6,19 +6,26 @@ Fabian Alexander Franco Quiroga 20152020048
 
 En el presente repositorio se encuentra un catalogo con ejemplos de los siguientes patrones de diseño desarrolados en Java:
     
-##Patrones Creacionales
+## Patrones Creacionales
     
    [1. Abstract factory](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronabstractfactory)
+   
    [2. Factory method](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronfactorymethod)
+   
    [3. Builder](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronbuilder)
+   
    [4. Prototype](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronprototype)
+   
    [5. Singleton](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronsingleton)
     
-##Patrones Estructurales
+## Patrones Estructurales
     
    [1. Adapter](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronadapter)
+   
    [2. Decorator](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patrondecorador)
+   
    [3. Facade](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronfachada)
+   
    [4. Proxy](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronproxy)
 
 Diseño Abstract Factory
