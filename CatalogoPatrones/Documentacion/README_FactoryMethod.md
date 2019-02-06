@@ -10,14 +10,14 @@
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PatronFactoria.jpg)
 
 ## Participantes
-    ### Producto: 
-    Define la interfaz de los objetos que la Factoría crea.
-    ### ProductoConcreto: 
-    Define la interfaz del Producto.
-    ### Creador: 
-    Declara el método factoría que devuelve un objeto de tipo Producto
-    ### CreadorConcreto: 
-    Sobreescribe el método Factoría para que devuelva un ProductoConcreto
+   ### Producto: 
+   Define la interfaz de los objetos que la Factoría crea.
+   ### ProductoConcreto: 
+   Define la interfaz del Producto.
+   ### Creador: 
+   Declara el método factoría que devuelve un objeto de tipo Producto
+   ### CreadorConcreto: 
+   Sobreescribe el método Factoría para que devuelva un ProductoConcreto
 
 
 
