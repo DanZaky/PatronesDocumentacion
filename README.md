@@ -12,20 +12,20 @@ En el presente repositorio se encuentra un catalogo con ejemplos de los siguient
    
    [2. Factory method](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_FactoryMethod.md)
    
-   [3. Builder](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Builder.md)
+   [3. Builder](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Builder.md)
    
-   [4. Prototype](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Prototype.md)
+   [4. Prototype](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Prototype.md)
    
-   [5. Singleton](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Singleton.md)
+   [5. Singleton](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Singleton.md)
     
 ## Patrones Estructurales
     
-   [1. Adapter](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Adapter.md)
+   [1. Adapter](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Adapter.md)
    
-   [2. Decorator](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Decorador.md)
+   [2. Decorator](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Decorador.md)
    
-   [3. Facade](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Fachada.md)
+   [3. Facade](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Fachada.md)
    
-   [4. Proxy](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Proxy.md)
+   [4. Proxy](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_Proxy.md)
 
 
