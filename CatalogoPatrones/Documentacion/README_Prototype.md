@@ -9,15 +9,15 @@
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PatronBuilder.jpg)
 
 ## Participantes
-   ### Prtotipo: 
+   ### Prototipo: 
    Declara una interfaz para clonarse.
-   ### PrototiporConcreto: 
+   ### PrototipoConcreto: 
    Implementa la operación para clonarse.
    ### Cliente: 
    Crea un nuevo objeto pidiéndole a un Prototipo para que se clone.
 
 ## Diseño Prototype caso practico
 
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PatronProtipo.jpg)
+![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PAtronProtipo.jpg)
 
 ## [Ejemplo practico](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronprototype)
