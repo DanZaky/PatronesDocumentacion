@@ -18,6 +18,6 @@
 
 ## Diseño Prototype caso practico
 
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PAtronProtipo.jpg)
+![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oPrototype.png)
 
 ## [Ejemplo practico](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronprototype)
