@@ -7,7 +7,7 @@ Su intención consiste en garantizar que una clase sólo tenga una instancia y p
 No se encarga de la creación de objetos en sí, sino que se enfoca en la restricción en la creación de un objeto.
 
 ## Estructura Singleton
-![img](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/img)
+![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Patronsingleton.jpg)
 
 ## Participantes
    ### Singleton: 
