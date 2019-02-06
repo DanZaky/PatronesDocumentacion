@@ -9,13 +9,13 @@ Esto nos permite no tener que crear sucesivas clases que hereden de la primera i
 
 ## Participantes
 
-    ### Componente: 
+   ### Componente: 
     Define la interfaz de los objetos a los que se peude añadir responsabilidades de manera dinámica
-    ### ComponenteConcreto: 
+   ### ComponenteConcreto: 
     Define un objeto al que añadir responsabilidades de manera dinámica
-    ### Decorador: 
+   ### Decorador: 
     Mantiene una referencia al objeto componente y define una interfaz conforme a la del componente
-    ### DecoradorConcreto: 
+   ### DecoradorConcreto: 
     Añade responsabilidades al componente al que referencia
 
 ## Diseño Decorador caso practico
