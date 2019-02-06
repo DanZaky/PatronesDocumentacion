@@ -10,13 +10,13 @@ El patrón Adaptador permite que clases con interfaces incompatibles puedan trab
 
 ## Participantes
 
-    ### Target: 
+   ### Target: 
     Define la interfaz específica del dominio que Cliente usa.
-    ### Cliente: 
+   ### Cliente: 
     Colabora con la conformación de objetos para la interfaz Target.
-    ### Adaptado: 
+   ### Adaptado: 
     Define una interfaz existente que necesita adaptarse
-    ### Adapter: 
+   ### Adapter: 
     Adapta la interfaz de Adaptee a la interfaz Target
     
 ## Diseño Adapter caso practico
