@@ -8,7 +8,7 @@ En el presente repositorio se encuentra un catalogo con ejemplos de los siguient
     
 ## Patrones Creacionales
     
-   [1. Abstract factory](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronabstractfactory)
+   [1. Abstract factory](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_AbstractFactory.md)
    
    [2. Factory method](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronfactorymethod)
    
