@@ -4,8 +4,8 @@
 
 Este patrón tiene como finalidad crear nuevos objetos duplicándolos, clonando una instancia creada previamente.
 
-## Estructura Builder
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PatronPrototype.jpg)
+## Estructura Prototype
+![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PatronPrototipo.jpg)
 
 ## Participantes
    ### Prototipo: 
