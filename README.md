@@ -10,56 +10,22 @@ En el presente repositorio se encuentra un catalogo con ejemplos de los siguient
     
    [1. Abstract factory](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_AbstractFactory.md)
    
-   [2. Factory method](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronfactorymethod)
+   [2. Factory method](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/Documentacion/README_FactoryMethod.md)
    
-   [3. Builder](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronbuilder)
+   [3. Builder](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Builder.md)
    
-   [4. Prototype](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronprototype)
+   [4. Prototype](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Prototype.md)
    
-   [5. Singleton](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronsingleton)
+   [5. Singleton](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Singleton.md)
     
 ## Patrones Estructurales
     
-   [1. Adapter](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronadapter)
+   [1. Adapter](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Adapter.md)
    
-   [2. Decorator](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patrondecorador)
+   [2. Decorator](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Decorador.md)
    
-   [3. Facade](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronfachada)
+   [3. Facade](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Fachada.md)
    
-   [4. Proxy](https://github.com/DanZaky/PatronesDocumentacion/tree/master/CatalogoPatrones/src/patronproxy)
+   [4. Proxy](https://github.com/DanZaky/PatronesDocumentacion/new/master/CatalogoPatrones/Documentacion/README_Proxy.md)
 
-Diseño Abstract Factory
 
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oAbstractFactory.png)
-
-Diseño Factory Method 
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oFactoryMethod.png)
-
-Diseño Builder 
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oBuilder.png)
-
-Diseño Prototype 
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oPrototype.png)
-
-Diseño Singleton
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oSingleton.png)
-
-Diseño Adapter 
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oAdapter.png)
-
-Diseño Decorador
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oDecorador.png)
-
-Diseño Facade
-
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oFacade.png)
-  
- Diseño Proxy 
- 
-![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/Dise%C3%B1oProxy.png)
