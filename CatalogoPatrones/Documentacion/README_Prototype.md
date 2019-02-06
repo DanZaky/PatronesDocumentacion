@@ -2,8 +2,7 @@
 
 ## Descripción
 
-  Como Patrón de diseño, el patrón Constructor es usado para permitir la creación de una variedad de objetos complejos desde un objeto fuente (Producto). 
-  El objeto fuente se compone de una variedad de partes que contribuyen individualmente a la creación de cada objeto complejo a través de un conjunto de llamadas a interfaces comunes de la clase ConstructorAbstracto
+Este patrón tiene como finalidad crear nuevos objetos duplicándolos, clonando una instancia creada previamente.
 
 ## Estructura Builder
 ![img](https://github.com/DanZaky/PatronesDocumentacion/blob/master/CatalogoPatrones/img/PatronBuilder.jpg)
